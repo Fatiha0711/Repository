@@ -1,0 +1,14 @@
+C:\Users\Hasibz\Desktop\1278931\ECommerceRepository\ECommerceRepository\bin\Debug\ECommerceRepository.exe.config
+C:\Users\Hasibz\Desktop\1278931\ECommerceRepository\ECommerceRepository\bin\Debug\ECommerceRepository.exe
+C:\Users\Hasibz\Desktop\1278931\ECommerceRepository\ECommerceRepository\bin\Debug\ECommerceRepository.pdb
+C:\Users\Hasibz\Desktop\1278931\ECommerceRepository\ECommerceRepository\obj\Debug\ECommerceRepository.csproj.AssemblyReference.cache
+C:\Users\Hasibz\Desktop\1278931\ECommerceRepository\ECommerceRepository\obj\Debug\ECommerceRepository.csproj.CoreCompileInputs.cache
+C:\Users\Hasibz\Desktop\1278931\ECommerceRepository\ECommerceRepository\obj\Debug\ECommerceRepository.exe
+C:\Users\Hasibz\Desktop\1278931\ECommerceRepository\ECommerceRepository\obj\Debug\ECommerceRepository.pdb
+C:\Users\USSL\Downloads\ECommerceRepository\ECommerceRepository\ECommerceRepository\obj\Debug\ECommerceRepository.csproj.AssemblyReference.cache
+C:\Users\USSL\Downloads\ECommerceRepository\ECommerceRepository\ECommerceRepository\obj\Debug\ECommerceRepository.csproj.CoreCompileInputs.cache
+C:\Users\USSL\Downloads\ECommerceRepository\ECommerceRepository\ECommerceRepository\obj\Debug\ECommerceRepository.exe
+C:\Users\USSL\Downloads\ECommerceRepository\ECommerceRepository\ECommerceRepository\obj\Debug\ECommerceRepository.pdb
+C:\Users\USSL\Downloads\ECommerceRepository\ECommerceRepository\ECommerceRepository\bin\Debug\ECommerceRepository.exe.config
+C:\Users\USSL\Downloads\ECommerceRepository\ECommerceRepository\ECommerceRepository\bin\Debug\ECommerceRepository.exe
+C:\Users\USSL\Downloads\ECommerceRepository\ECommerceRepository\ECommerceRepository\bin\Debug\ECommerceRepository.pdb
